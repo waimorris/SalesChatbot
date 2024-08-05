@@ -27,3 +27,7 @@ This project implements a Retrieval-Augmented Generation (RAG) based sales chatb
 ## Usage
 
 Run the main script:
+
+```python
+python chatbpt.py
+```
